@@ -48,7 +48,7 @@
 
 <script>
   import {themeList} from '@/assets/theme/setTheme.js';
-  import {mapGetters} from 'vuex'
+  import {mapGetters} from 'vuex';
 
   export default {
     data() {
@@ -81,5 +81,3 @@
     }
   }
 </script>
-<style lang="scss">
-</style>
